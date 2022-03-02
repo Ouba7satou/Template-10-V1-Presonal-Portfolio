@@ -121,7 +121,7 @@ a {
 /* Start Header */
 header {
     position: fixed;
-    bottom: -2px;
+    bottom: -4px;
     left: 0px;
     right: 0px;
     width: 100%;
