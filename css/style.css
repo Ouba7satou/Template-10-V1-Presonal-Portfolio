@@ -121,10 +121,11 @@ a {
 /* Start Header */
 header {
     position: fixed;
-    bottom: -4px;
+    bottom: 0;
     left: 0px;
     right: 0px;
     width: 100%;
+    margin-bottom:-4px;
     z-index: 9999;  
 }
 header nav {
