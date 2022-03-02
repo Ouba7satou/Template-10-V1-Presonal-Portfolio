@@ -27,6 +27,17 @@ body {
     background: var(--main-color);
     color: white;
 }
+::-webkit-scrollbar {
+  width: 13px;
+}
+::-webkit-scrollbar-track {
+  border-radius: 8px;
+}
+::-webkit-scrollbar-thumb {
+  border-radius: 8px;
+  background: var(--main-color);
+}
+
 ul {
     list-style: none;
 
